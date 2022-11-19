@@ -1,4 +1,4 @@
-print("forloop")
+print("forloop\n")
 
 for i in range(3):
     print("skwaweru254")
