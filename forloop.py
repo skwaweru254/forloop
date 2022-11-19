@@ -4,6 +4,11 @@ print("forloop\n")
 for i in range(3):
     print("skwaweru254")
     print("*"*(9+i))
+    print('    *')
+    print('   ***')
+    print('  *****')
+    print('   ***')
+    print('    *')
 
 for item in range(3):
     first_name = input("Enter your first name: ")
